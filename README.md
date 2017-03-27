@@ -17,5 +17,5 @@ Download this repository: https://github.com/Prometheus111/Keylogger/archive/mas
 Download only program: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.exe \
 Download only source code: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.cpp \
 \
-Enjoy learning new things! Prometheus111 helps you with your studying! \
+Enjoy learning new things! Prometheus111 helps you with your studying!
 # https://github.com/Prometheus111 
