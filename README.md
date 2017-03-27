@@ -1,7 +1,7 @@
 # Keylogger (Windows) (C++)
 # by Prometheus111
 
-# ATTENTION!
+# ATTENTION! Use this code only for educational purposes! 
 You must use this code only for educational purposes. 
 You mustn't run this code on other people's computers without their permission. 
 The illegal use of this code is entirely at your own risk. But you mustn't do it. 
