@@ -13,8 +13,9 @@ After startup, the program is hidden (there is no console or GUI). \
 The log file is written to the same directory as where is the running program. \
 After use the program, you need to end the keylogger.exe process through the Windows Task Manager and delete the log.txt. \
 \
-Download program: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.exe \
-Download source code: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.cpp \
+Download this repository: https://github.com/Prometheus111/Keylogger/archive/master.zip 
+Download only program: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.exe \
+Download only source code: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.cpp \
 \
 Enjoy learning new things! Prometheus111 helps you with your studying! \
 # https://github.com/Prometheus111 
