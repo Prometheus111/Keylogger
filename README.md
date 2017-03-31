@@ -12,12 +12,12 @@ After startup, the program is hidden (there is no console or GUI). \
 The log file is written to the same directory as where is the running program. \
 After use the program, you need to end the keylogger.exe process through the Windows Task Manager and delete the log.txt. \
 \
-Download this repository: https://github.com/Prometheus111/Keylogger/archive/master.zip \
-Download only program: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.exe \
-Download only source code: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.cpp \
+Download program: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.exe \
+Download source code: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.cpp \
 \
-Enjoy learning new things! Prometheus111 helps you with your studying!
-# https://github.com/Prometheus111 
+Enjoy learning new things! \
+Download repository: https://github.com/Prometheus111/Keylogger/archive/master.zip 
+## https://github.com/Prometheus111 
 
 ### Описание на русском:
 
@@ -35,9 +35,9 @@ Enjoy learning new things! Prometheus111 helps you with your studying!
 Текстовый лог-файл записывается в ту же директорию, в которой находится запущена программа. \
 После использования программы необходимо завершить процесс keylogger.exe через диспетчер задач Windows и удалить сформированный текстовый лог-файл log.txt. \
 \
-Скачать репозиторий: https://github.com/Prometheus111/Keylogger/archive/master.zip \
-Скачать только программу: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.exe \
-Скачать только исходный код: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.cpp \
+Скачать программу: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.exe \
+Скачать исходный код: https://github.com/Prometheus111/Keylogger/blob/master/keylogger.cpp \
 \
-Наслаждайтесь изучением новых вещей! Prometheus111 поможет Вам в учёбе! 
+Наслаждайтесь изучением новых вещей! \
+Скачать репозиторий: https://github.com/Prometheus111/Keylogger/archive/master.zip 
 # https://github.com/Prometheus111 
